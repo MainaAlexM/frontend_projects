@@ -1,0 +1,22 @@
+h1 {
+    margin-left: 38px;
+    padding: 20px 0px 20px 0px;
+  }
+  img {
+    float: left;
+    margin: 0px 10px 20px 0px;
+    padding: 10px;
+  }
+  li {
+    overflow: auto;
+    clear: both;
+    margin: 10px 0px 10px 0px;
+  }
+  a {
+    display: block;
+  }
+  
+  a:hover {
+    color: green;
+    font-size: x-large;
+  }

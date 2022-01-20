@@ -1,0 +1,19 @@
+*{
+    text-align:center;
+}
+img{
+    height:150px;
+}
+h3{
+    color:red;
+    font-weight:bold;
+}
+h1{
+    color:#0907a7;
+    font-family:helvetica;
+}
+p{
+    background-color:#f0f0f0;
+    border:1px solid black;
+    padding:10px;
+}

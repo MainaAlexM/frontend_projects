@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  p  {
+    width: 100px;
+    height: 100px;
+    color: white;
+    padding: 20px;
+    background-color: blue;
+    background-clip: content-box;
+    border: 10px outset grey;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  #margin {
+    position: relative;
+    bottom: 400px;
+    height: 20px;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  #padding {
+    position: relative;
+    bottom: 390px;
+    height: 20px;
+    width: 140px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  #frame {
+    z-index: 1000;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 200px;
+    border: 1px dashed black;
+  }
+  

@@ -1,0 +1,24 @@
+h1 {
+    background-color: #d4d7f7;
+    color: #63473e;
+    font-family: 'papyrus';
+}
+li {
+    background-color: #999999
+
+    ;
+}
+img {
+    background-color:rgba(170,170,170,0.2);
+}
+h3 {
+    color: to #aaa;
+    font-family: monospace;
+    font-style: italic;
+    font-size: x-large;
+}
+p {
+    font-family: cursive;
+    color: rgba(170,170,170,0.5);
+    font-weight: 600;
+}
