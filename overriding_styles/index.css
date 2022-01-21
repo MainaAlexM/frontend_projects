@@ -1,0 +1,28 @@
+body{
+    color: red;
+}
+h1 {
+color: blue;
+}
+.description {
+    color: green;
+}
+#short-note{
+    color: cyan;
+}
+a{
+    color: brown;
+}
+a:link{
+    background-color: lightgreen;
+    padding: 20px;
+}
+a:hover{
+    color:blue;
+    background-color: hotpink;
+    text-decoration:none;
+}
+a:visited{
+    color: green;
+    background-color:cyan;
+}               
