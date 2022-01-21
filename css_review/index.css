@@ -1,0 +1,13 @@
+*{
+
+    margin: 0 auto; padding: 10px;
+  
+  }
+h1{
+      border: 1px solid green;
+      padding: 20px;
+  }
+.container{
+    margin: 10px;
+    background-color: rgb(250, 250, 250);
+}
