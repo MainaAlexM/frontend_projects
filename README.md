@@ -1,2 +1,2 @@
-# moringa_pre_prep_projects
+# Frontend_projects
 Starter HTML and CSS Projects
